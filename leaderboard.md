@@ -1,5 +1,7 @@
 # Syron Leaderboard
 
+_Last updated: August 9, 2024_
+
 | Rank | ID | Points |
 |------|----------|--------|
 | 1    | tb1q0sdjrkrj6m83uawp9utzpdvn2k4n08mcr9xn8m    | 250 |
@@ -26,4 +28,17 @@
 | 3    | frengkyfr3...    | 100    |
 | 3    | vo-phfd80...    | 100    |
 
-_Last updated: August 9, 2024_
+## Metrics
+
+Points are awarded based on the following activities:
+
+1. **Successful Syron Transaction:**
+   - 250 points for receiving Syron, which includes a successful Bitcoin deposit and SUSD withdrawal.
+
+2. **Logging in with Vercel:**
+   - 100 points for logging into the platform using Vercel.
+
+3. **Feedback Submission:**
+   - 100 points for leaving constructive feedback. Participants must use the following link to submit feedback: [https://tyron.io/?ref=tyron.io&__vercel_draft=1](https://tyron.io/?ref=tyron.io&__vercel_draft=1). Without using this link, feedback cannot be submitted nor the corresponding points awarded.
+
+Points are awarded upon completion of each activity and will be reflected in the leaderboard.
