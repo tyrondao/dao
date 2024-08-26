@@ -39,6 +39,8 @@ Points are awarded based on the following activities:
 - 1.a) Earn 100 points for successfully depositing Bitcoin into your safety deposit box (see 3.b).
 - 1.b) Earn 150 points for borrowing SUSD (received in your wallet).
 
+   ⚠️ Testnet3 is erratic, so this operation may fail. Please share any error details in our [Telegram group](https://t.me/tyrondao).
+
 2. **Logging in with Vercel:**
 
    ⚠️ Participants must use the [points.tyron.io](https://points.tyron.io) link to log in.
