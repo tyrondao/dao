@@ -50,6 +50,6 @@ Points are awarded based on the following activities:
    ⚠️ Without using the [points.tyron.io](https://points.tyron.io) link, comments cannot be made nor the corresponding points awarded.
    
 - Earn 100 points for leaving constructive feedback using the Vercel Toolbar.
-- 3.b) Leave your Bitcoin deposit transaction link along with your feedback comment to earn the 100 points from step 1.a. Providing this information will also grant you the points from steps 2 and 3. Alternatively, you can leave your Bitcoin wallet address with your feedback (either the mainnet address for the airdrop or the testnet address you used to borrow SUSD).
+- 3.b) Leave your Bitcoin deposit transaction link along with your feedback comment to earn the 100 points from step 1.a. - Providing this information will also grant your wallet the points from steps 2 and 3. Alternatively, you can leave your Bitcoin wallet address with your feedback (either the mainnet address for the airdrop or the testnet address you used to borrow SUSD).
 
 ℹ️ Points are awarded upon completion of each activity and will be reflected in the leaderboard.
