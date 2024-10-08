@@ -1,4 +1,4 @@
-# ⚡ Syron Leaderboard
+# RUNES•OF•SYRONS Leaderboard ⚡
 
 RUNES•OF•SYRONS is the governance token for the SYRON project, our Bitcoin-backed stablecoin. Designed to empower the community, it represents a key element in decision-making, providing you a direct voice in the future of decentralized finance on Bitcoin and the Internet Computer.
 
@@ -55,6 +55,13 @@ By participating in the SYRON ecosystem, you can unlock points that directly con
 
 Points are awarded based on the following activities:
 
+1. Using the app to test the SYRON USD stablecoin
+2. Joining TyronDAO
+3. Participating in a customer interview
+4. Sharing feedback
+
+### 1. Test SYRON USD
+
 | Task | Testnet | Mainnet |
 |------|----------|--------|
 | Get your Safety Deposit Box (SDB) address | 50 | 100 |
@@ -63,17 +70,21 @@ Points are awarded based on the following activities:
 
 **Please share any questions in our [Telegram group](https://t.me/tyrondao).**
 
-⚠️ Testnet3 is currently erratic, so Testnet accrual points are not available until Testnet4 is ready for use.
+⚠️ Bitcoin Testnet3 is currently erratic, so points accrual on the testnet is not available until we migrate to Testnet4.
 
-### Join TyronDAO
+### 2. Join TyronDAO
 
 **Subscribe at [TyronDAO.org](https://tyrondao.org) to earn 500 extra points.** As a member of our DAO, you’ll receive an email to share your Bitcoin address and climb higher on the leaderboard.
 
-### Feedback Submission
+### 3. Participate in an Interview
 
-- Earn 100 points for logging into the [points.tyron.io](https://points.tyron.io) app using Vercel.
+Earn 500 points by joining us for a 20-minute conversation where we’ll explore your experiences with Bitcoin and Web3 technologies, such as ICP. Your insights are invaluable! Sign up by filling out [**this form**](https://forms.gle/8tWYcWQDWTwEPmwd8).
+
+### 4. Share Feedback
+
+- Earn 100 points for logging into the [**points.tyron.io**](https://points.tyron.io) app using Vercel.
 - Earn 100 points for leaving constructive feedback using the Vercel Toolbar.
 
-⚠️ Without using the [points.tyron.io](https://points.tyron.io) link, comments cannot be made nor the corresponding points awarded. **Remember to leave your Bitcoin wallet along with your comment.**
+⚠️ Without using the points.tyron.io app, comments cannot be made nor the corresponding points awarded. **Remember to leave your Bitcoin wallet along with your comment.**
 
 _Last updated: October 8, 2024_
